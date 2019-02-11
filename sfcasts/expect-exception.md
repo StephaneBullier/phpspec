@@ -21,7 +21,7 @@ the carnage stops.
 
 ## Example for an Exception
 
-Open up `EnclousreSpec`: because we want the exception to be thrown when the `addDinosaur()`
+Open up `EnclosureSpec`: because we want the exception to be thrown when the `addDinosaur()`
 method is called. Let's say:
 `function it_should_not_allow_to_add_carnivorous_dinosaurs_to_non_carnivorous_enclosure()`.
 
